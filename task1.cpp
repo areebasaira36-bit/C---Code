@@ -8,6 +8,7 @@ int main() {
     cin >> x;
     cout << "y=";
     cin >> y;
+    
     if (x > y) 
     {
         cout << "x is greater than y" << endl;
